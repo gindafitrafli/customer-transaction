@@ -1,4 +1,4 @@
 package com.ginda.customertransaction.controller;
 
-public class TransactionCOntroller {
+public class TransactionController {
 }
